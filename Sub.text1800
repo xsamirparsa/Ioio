@@ -1,0 +1,2 @@
+warp://p1@[2606:4700:d0::2486:ba3c:391a:694f]:864?ifpm=m4#LocalIP&&detour=warp://p2@162.159.192.21:5956#WarpInWarp
+warp://p1@188.114.98.221:4500?ifpm=m4#LocalIP&&detour=warp://p2@188.114.97.219:2371#WarpInWarp
